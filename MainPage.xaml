@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="Finiup_Mag.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Finiup_Mag"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+Background="#FFE8C31F">
+
+    <Grid Background="#FF000000" ScrollViewer.VerticalScrollBarVisibility="Hidden">
+        <WebView DefaultBackgroundColor="#FF000000" x:Name="webview1" LoadCompleted="WebView_LoadCompleted" Source="ms-appx-web:///assets/www/index.html" Margin="0,50,0,0" ScrollViewer.VerticalScrollBarVisibility="Hidden" />
+        <ProgressRing x:Name="ProgressRing1" HorizontalAlignment="Right" VerticalAlignment="Bottom" Height="74" Width="57" Background="{x:Null}" Foreground="Red"/>
+        <Button x:Name="Back" Content="&lt;&lt; Back" HorizontalAlignment="Right" Click="backButton_Click" Foreground="White" Margin="0,7,0,0" VerticalAlignment="Top" RenderTransformOrigin="11.015,0.188" Background="{x:Null}" Height="33" ClickMode="Press"/>
+        <Button x:Name="load" Content="↻ Reload" HorizontalAlignment="Left" Foreground="White" Margin="0,7,0,0" VerticalAlignment="Top" RenderTransformOrigin="11.015,0.188" Background="{x:Null}"/>
+        <Button x:Name="Home" Content="Finiup" HorizontalAlignment="Center" Foreground="White" Margin="0,5,0,0" VerticalAlignment="Top" RenderTransformOrigin="11.015,0.188" Background="{x:Null}" FontSize="18"/>
+
+    </Grid>
+</Page>

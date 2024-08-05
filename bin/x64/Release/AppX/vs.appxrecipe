@@ -1,0 +1,482 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-NQDOAVJ</Machine>
+    <WindowsUser>Richards Louis</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>ef585b8e-0bff-43bf-aee8-f019b9c97c3e</PackageIdentityName>
+    <PackageIdentityPublisher>CN=BB7B72A7-44D7-4BE4-8610-6E59E2F1146B</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\obj\x64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>9750BC7C06D167550B06622C5C5E9564D60CAEC0E7A069267915A733ED85559D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1362InfantLouisRichards.FiniupMag_6.0.2203.0_x64__t8fw2476bzf4t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1362InfantLouisRichards.FiniupMag_t8fw2476bzf4t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1362InfantLouisRichards.FiniupMag</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=BB7B72A7-44D7-4BE4-8610-6E59E2F1146B</RegisteredPackagePublisher>
+    <RegisteredVersion>6.0.2203.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-24T12:42:48.070</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\ApplicationInsights.config">
+      <PackagePath>ApplicationInsights.config</PackagePath>
+      <Modified>2016-05-12T16:15:31.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <Modified>2016-02-29T14:10:39.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\BadgeLogo.scale-125.png">
+      <PackagePath>Assets\BadgeLogo.scale-125.png</PackagePath>
+      <Modified>2016-02-29T14:10:42.589</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\BadgeLogo.scale-150.png">
+      <PackagePath>Assets\BadgeLogo.scale-150.png</PackagePath>
+      <Modified>2016-02-29T14:10:46.461</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\BadgeLogo.scale-200.png">
+      <PackagePath>Assets\BadgeLogo.scale-200.png</PackagePath>
+      <Modified>2016-02-29T14:10:53.261</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\BadgeLogo.scale-400.png">
+      <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
+      <Modified>2016-02-29T14:11:23.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-12T16:30:53.441</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-12T16:30:36.115</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-12T16:30:12.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-12T16:29:53.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-12T16:29:33.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:11:36.330</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:09:14.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:09:24.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:09:35.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:09:52.859</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:09:40.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square310x310Logo.scale-125.png">
+      <PackagePath>Assets\Square310x310Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:09:45.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square310x310Logo.scale-150.png">
+      <PackagePath>Assets\Square310x310Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:09:49.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square310x310Logo.scale-200.png">
+      <PackagePath>Assets\Square310x310Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:09:55.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square310x310Logo.scale-400.png">
+      <PackagePath>Assets\Square310x310Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:10:08.779</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:10:49.855</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:11:00.412</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:11:07.271</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:11:17.683</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:09:07.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:10:34.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:10:34.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:10:39.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:10:39.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:01:04.412</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:01:04.412</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:10:53.261</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:10:53.261</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:11:10.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square71x71Logo.scale-125.png">
+      <PackagePath>Assets\Square71x71Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:11:21.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square71x71Logo.scale-150.png">
+      <PackagePath>Assets\Square71x71Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:11:29.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square71x71Logo.scale-200.png">
+      <PackagePath>Assets\Square71x71Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:11:33.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Square71x71Logo.scale-400.png">
+      <PackagePath>Assets\Square71x71Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:09:29.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:10:56.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:11:04.167</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:11:14.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:11:26.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T14:09:20.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-30T22:47:47.471</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-30T22:47:29.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-30T22:46:49.705</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-30T22:46:34.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-30T22:46:03.622</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\css\bootstrap.css">
+      <PackagePath>Assets\www\css\bootstrap.css</PackagePath>
+      <Modified>2017-06-24T12:37:18.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\css\bootstrap.min.css">
+      <PackagePath>Assets\www\css\bootstrap.min.css</PackagePath>
+      <Modified>2017-06-24T12:37:18.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\css\font-awesome.css">
+      <PackagePath>Assets\www\css\font-awesome.css</PackagePath>
+      <Modified>2017-06-24T12:37:18.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\css\jquery.fancybox.min.css">
+      <PackagePath>Assets\www\css\jquery.fancybox.min.css</PackagePath>
+      <Modified>2017-06-24T12:37:18.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\css\owl.carousel.css">
+      <PackagePath>Assets\www\css\owl.carousel.css</PackagePath>
+      <Modified>2017-06-24T12:37:18.344</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\css\owl.theme.css">
+      <PackagePath>Assets\www\css\owl.theme.css</PackagePath>
+      <Modified>2017-06-24T12:37:18.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\css\style.css">
+      <PackagePath>Assets\www\css\style.css</PackagePath>
+      <Modified>2017-06-24T12:37:18.347</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\css\swiper.min.css">
+      <PackagePath>Assets\www\css\swiper.min.css</PackagePath>
+      <Modified>2017-06-24T12:37:18.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\fonts\fontawesome-webfont.svg">
+      <PackagePath>Assets\www\fonts\fontawesome-webfont.svg</PackagePath>
+      <Modified>2017-06-24T12:37:18.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\fonts\fontawesome-webfont.ttf">
+      <PackagePath>Assets\www\fonts\fontawesome-webfont.ttf</PackagePath>
+      <Modified>2017-06-24T12:37:18.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\fonts\FontAwesome.otf">
+      <PackagePath>Assets\www\fonts\FontAwesome.otf</PackagePath>
+      <Modified>2017-06-24T12:37:18.364</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\fonts\glyphicons-halflings-regular.svg">
+      <PackagePath>Assets\www\fonts\glyphicons-halflings-regular.svg</PackagePath>
+      <Modified>2017-06-24T12:37:18.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\fonts\glyphicons-halflings-regular.ttf">
+      <PackagePath>Assets\www\fonts\glyphicons-halflings-regular.ttf</PackagePath>
+      <Modified>2017-06-24T12:37:18.372</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\images\slider\banner.jpg">
+      <PackagePath>Assets\www\images\slider\banner.jpg</PackagePath>
+      <Modified>2017-06-24T12:37:18.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\images\slider\mobile.png">
+      <PackagePath>Assets\www\images\slider\mobile.png</PackagePath>
+      <Modified>2017-06-24T12:37:18.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\index.html">
+      <PackagePath>Assets\www\index.html</PackagePath>
+      <Modified>2017-06-24T12:37:18.384</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\js\bootstrap.js">
+      <PackagePath>Assets\www\js\bootstrap.js</PackagePath>
+      <Modified>2017-06-24T12:37:18.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\js\bootstrap.min.js">
+      <PackagePath>Assets\www\js\bootstrap.min.js</PackagePath>
+      <Modified>2017-06-24T12:37:18.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\js\gmap.js">
+      <PackagePath>Assets\www\js\gmap.js</PackagePath>
+      <Modified>2017-06-24T12:37:18.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\js\jquery.fancybox.min.js">
+      <PackagePath>Assets\www\js\jquery.fancybox.min.js</PackagePath>
+      <Modified>2017-06-24T12:37:18.393</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\js\jquery.js">
+      <PackagePath>Assets\www\js\jquery.js</PackagePath>
+      <Modified>2017-06-24T12:37:18.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\js\owl.carousel.js">
+      <PackagePath>Assets\www\js\owl.carousel.js</PackagePath>
+      <Modified>2017-06-24T12:37:18.397</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\js\script.js">
+      <PackagePath>Assets\www\js\script.js</PackagePath>
+      <Modified>2017-06-24T12:37:18.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\js\swiper.jquery.min.js">
+      <PackagePath>Assets\www\js\swiper.jquery.min.js</PackagePath>
+      <Modified>2017-06-24T12:37:18.401</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Assets\www\offline.html">
+      <PackagePath>Assets\www\offline.html</PackagePath>
+      <Modified>2017-06-24T12:37:18.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2016-06-13T16:16:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Finiup Mag.dll">
+      <PackagePath>Finiup Mag.dll</PackagePath>
+      <Modified>2017-06-24T12:42:47.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Finiup Mag.exe">
+      <PackagePath>Finiup Mag.exe</PackagePath>
+      <Modified>2017-06-24T12:42:48.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\Finiup Mag.pdb">
+      <PackagePath>Finiup Mag.pdb</PackagePath>
+      <Modified>2017-06-24T12:42:48.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Richards Louis\Documents\Visual Studio 2017\Projects\Windows10\Finiup Mag\Finiup Mag\bin\x64\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-24T12:42:23.817</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\arm\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\x64\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\x86\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\ARM\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\x64\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\x86\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
