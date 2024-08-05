@@ -1,5 +1,5 @@
 # Finiup (Richiesoft)
-Finiup App [Win11 version]
+Finiup Mag [Win11 version]
 
 # Overview
 
